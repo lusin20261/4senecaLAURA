@@ -1,0 +1,6 @@
+a = input("Escribe tu nombre ")
+b = input("Escribe tu curso favorito ")
+c = input("Escribe tu edad ")
+d = input("Escribe tu personaje favorito ")
+e = input("escribe tu color favorito ")
+print("Hola" ,a,"tienes" ,c, "años y te gusta el curso de" ,b,"y te gusta el color" ,e, "y tu personaje favorito es" ,d)
